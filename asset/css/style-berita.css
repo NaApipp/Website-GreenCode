@@ -168,7 +168,25 @@ header {
   button:hover {
     background-color: #f7b800;
   }
+
+  .navbar-toggler {
+    background-color: #444;
+  }
   
+  .navbar-toggler-icon {
+    position: relative;
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    background-image: var(--bs-navbar-toggler-icon-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    background-color: #444;
+    border-radius: 7px;
+    padding: 10px 20px;
+  }
 
 /*Phone Size*/
 @media screen and (max-width 767px) {
