@@ -83,11 +83,12 @@ margin-bottom: 10px;
 }
 
 .formbold-form-file-flex {
-margin-top: 20px;
+    margin-top: 20px;
 display: flex;
 align-items: center;
 gap: 20px;
 }
+
 .formbold-form-file-flex .formbold-form-label {
 margin-bottom: 0;
 }
