@@ -12,5 +12,13 @@ Join us in creating a cleaner, greener future with GreenCode! 🌱♻️
 
 ## Demo
 
-Linto Connect The Website: https://naapipp.github.io/Website-GreenCode/
+LinK to Connect The Website: https://naapipp.github.io/Website-GreenCode/
+
+
+
+
+
+## Display UIUX
+
+![App Screenshot](https://github.com/NaApipp/Website-GreenCode/blob/ae4aac4eb1896d7a6cb6aa51e4c909f8da775cfe/asset/image/Final%20Display%20UIUX%20GreenCode.png)
 
