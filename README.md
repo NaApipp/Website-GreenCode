@@ -18,9 +18,9 @@ The GreenCode logo is made with the use of dominant green color and dynamic logo
 
 
 ## 🚀 Features  
-✅**Practical and Efficient Service**: You only need to sort your waste at home and contact the GreenCode team. The team will pick up your waste to be managed professionally, helping to create a greener earth.
-✅**Clean Environment**: GreenCode helps clean your home environment from hazardous B3 waste, making it healthier and more comfortable. B3 waste can damage the environment and endanger health, so proper management is very important.
-✅**Waste Packaging Guide**: The website provides a guide on how to sort and pack B3 waste safely, including identifying waste types, safe storage, packaging procedures, and storage in a safe place.
+✅**Practical and Efficient Service**: You only need to sort your waste at home and contact the GreenCode team. The team will pick up your waste to be managed professionally, helping to create a greener earth.<br>
+✅**Clean Environment**: GreenCode helps clean your home environment from hazardous B3 waste, making it healthier and more comfortable. B3 waste can damage the environment and endanger health, so proper management is very important.<br>
+✅**Waste Packaging Guide**: The website provides a guide on how to sort and pack B3 waste safely, including identifying waste types, safe storage, packaging procedures, and storage in a safe place.<br>
 ✅**Contact Information and Locations**: GreenCode operates in several cities such as Semarang, Kendal, Batang, and Yogyakarta. Contact information and service hours are available to make it easier for you to access their services.
 
 
