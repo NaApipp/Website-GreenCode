@@ -10,6 +10,15 @@ Join us in creating a cleaner, greener future with GreenCode! 🌱♻️
 
 
 
+## Logo
+
+![Logo](https://github.com/NaApipp/Website-GreenCode/blob/a5fcb160394af7acd7fa0d13503903674ab7d6ed/asset/image/Logo.png)
+
+The GreenCode logo is made with the use of dominant green color and dynamic logo construction. In general, green is a symbol of nature, environment, life, and fertility. The dynamic shape of the logo with a triangular shape depicts spirit, strength, energy, and innovation. For more details, see the next page.
+
+
+
+
 ## Demo
 
 LinK to Connect The Website: https://naapipp.github.io/Website-GreenCode/
